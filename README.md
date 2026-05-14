@@ -1,3 +1,5 @@
+![Logo](https://github.com/mafernandarodrigueztdev-byte/mafernandarodrigueztdev-byte/blob/main/logo.png)
+
 # Hola, soy Mafer Rodriguez ✨
 
 Desarrolladora web full stack junior enfocada en crear experiencias digitales modernas, funcionales y visualmente cuidadas.
