@@ -17,11 +17,11 @@ Me gusta combinar creatividad, tecnología y atención al detalle para transform
 
 ## 🛠️ Tecnologías y herramientas
 
-HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS · Python · FastAPI · MongoDB · Git · GitHub · Vercel · Figma
+HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS · Python · FastAPI · Git · GitHub · Vercel · Figma · Jira · 
 
 ## 🌱 Actualmente aprendiendo
 
-Arquitectura full stack, mejores prácticas de desarrollo, accesibilidad web, performance y despliegue de aplicaciones.
+Arquitectura full stack, mejores prácticas de desarrollo, accesibilidad web, base de datos, performance y despliegue de aplicaciones.
 
 ## ✨ Sobre mi forma de trabajar
 
