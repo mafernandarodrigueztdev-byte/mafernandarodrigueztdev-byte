@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hola, soy Mafer Rodriguez ✨
 
-<!--
-**mafernandarodrigueztdev-byte/mafernandarodrigueztdev-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrolladora web full stack junior enfocada en crear experiencias digitales modernas, funcionales y visualmente cuidadas.
 
-Here are some ideas to get you started:
+Me gusta combinar creatividad, tecnología y atención al detalle para transformar ideas en soluciones web claras, confiables y centradas en las personas. Actualmente sigo fortaleciendo mis habilidades en frontend, backend, diseño responsive, integración de funcionalidades y buenas prácticas de desarrollo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Lo que hago
+
+- Desarrollo de sitios web responsivos
+- Maquetación de interfaces modernas
+- Creación de landing pages y páginas institucionales
+- Integración de formularios y funcionalidades web
+- Desarrollo frontend con enfoque en experiencia de usuario
+- Proyectos full stack en constante aprendizaje
+
+## 🛠️ Tecnologías y herramientas
+
+HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS · Python · FastAPI · MongoDB · Git · GitHub · Vercel · Figma
+
+## 🌱 Actualmente aprendiendo
+
+Arquitectura full stack, mejores prácticas de desarrollo, accesibilidad web, performance y despliegue de aplicaciones.
+
+## ✨ Sobre mi forma de trabajar
+
+Soy creativa, organizada, detallista y analítica. Me gusta construir proyectos con intención, cuidar tanto la parte visual como la funcional, y seguir aprendiendo en cada etapa del proceso.
+
+---
+
+> Creo experiencias digitales modernas y funcionales, combinando creatividad, tecnología y atención al detalle para transformar ideas en soluciones confiables.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mafernandarodrigueztdev-byte&theme=midnight-purple)](https://git.io/streak-stats)
