@@ -29,6 +29,8 @@ Soy creativa, organizada, detallista y analítica. Me gusta construir proyectos 
 
 ---
 
-> Creo experiencias digitales modernas y funcionales, combinando creatividad, tecnología y atención al detalle para transformar ideas en soluciones confiables.
+Creo experiencias digitales modernas y funcionales, combinando creatividad, tecnología y atención al detalle para transformar ideas en soluciones confiables.
+
+---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mafernandarodrigueztdev-byte&theme=midnight-purple)](https://git.io/streak-stats)
